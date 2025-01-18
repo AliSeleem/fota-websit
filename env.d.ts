@@ -7,5 +7,7 @@ declare namespace NodeJS {
 		readonly STORAGEBUCKET: string;
 		readonly MESSAGING_SENDER: string;
 		readonly APP_ID: string;
+		readonly MEASUREMENT_ID: string;
+		readonly DATABASE_URL: string;
 	}
 }
